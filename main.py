@@ -1,5 +1,7 @@
 class SummarizeArticle:
-  """Problem: The class that summarises an article where every word beigins with letter G chatgpt4 release minute 3 https://youtu.be/outcGtbnMuQ?t=191 """
+  """
+  Problem: The class that summarises an article where every word beigins with letter G chatgpt4 release minute 3 https://youtu.be/outcGtbnMuQ?t=191 
+  """
   """ 
   Algorithm
   
