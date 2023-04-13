@@ -8,8 +8,12 @@ I believe that ChatGPT source code is divided into 3 segments:
   - Functionality Segment
 
 The U.I segment is used to display what we see and pick what we feed it with
+
 The instruction segment picks the instructions that we pass to it
+
 The functionality segment implements the requested funtionality from the instruction segment
+
 In this repo we are only decoding the functionality part of GPT4
+
 This is an open source code contribution and it is only for learning and personal exploration purposes.
 Please feel free to contribute at your own free time
