@@ -15,5 +15,5 @@ The functionality segment implements the requested funtionality from the instruc
 
 In this repo we are only decoding the functionality part of GPT4
 
-This is an open source code contribution and it is only for learning and personal exploration purposes.
+This is an open source code contribution and it is only for learning and personal exploration purposes. NOT for profit, Not for commercial use.
 Please feel free to contribute at your own free time
